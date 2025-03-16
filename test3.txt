@@ -1,2 +1,0 @@
-this is test3.txt file 
-and then it's 3rd file of shri folder
